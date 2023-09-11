@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Anton&family=Dancing+Script&family=Montez&family=Rubik+Iso&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Dancing+Script&family=Josefin+Sans:wght@100&family=Montez&family=Rubik+Iso&display=swap');
 html{
     box-sizing: border-box;
     
@@ -8,7 +8,7 @@ body{
     margin: 0;
     min-height: 100vh;
     color: #000;
-    font-family: dancing script, sans-serif;
+    font-family: anton, sans-serif;
     font-weight: 700;
     text-align: center;
     display: flex;
